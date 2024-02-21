@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="title">Hamburguesa doble con queso</string>
+    <string name="description">¡Sumérgete en el sabor indulgente de nuestra hamburguesa doble con queso, una experiencia gastronómica que despierta todos tus sentidos! Esta obra maestra de la parrilla comienza con dos jugosas y sabrosas hamburguesas de carne 100% de res, sazonadas con nuestra mezcla especial de especias que realza cada bocado.</string>
+    <string name="price">$200.00</string>
+    <string name="buy">Comprar</string>
+    <string name="successful">Compra exitosa</string>
+    <string name="purchase">Tu compra ha sido procesada correctamente</string>
+</resources>
